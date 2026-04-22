@@ -1,1 +1,1 @@
-- [x] 1. git init
+# Push COMPLETE - Netlify Deploy via GitHub\n\nPush done to https://github.com/suablizz/weather-web-app-.git\n\nNetlify Steps:\n1. https://app.netlify.com > Add new site > Import from Git > GitHub > https://github.com/suablizz/weather-web-app-.git\n2. Branch: main\n3. Build cmd: npm run build\n4. Publish dir: dist\n5. Deploy!\n\nnetlify.toml added for config (SPA redirects).\n\nFuture pushes auto-deploy.\n
